@@ -1,0 +1,56 @@
+body{
+  background: #F7F4FF;
+  width: 1600px;
+height: 1200px;
+}
+
+.card{
+  width: 640px;
+  height: 464px;
+  flex-shrink: 0;
+  margin:368px 480px 368px 480px;
+  background-color: #FFF;
+  box-shadow: 0px 14px 52px -20px #8675B4;
+}
+.head{
+  width: 348px;
+  border: 1px solid #DBD5EC;
+}
+.search{
+  color:rgba(40,26,81,0.54);
+}
+.map{
+  background: var(--281-a-51, #281A51);
+  width: 116px;
+  display: inline-flex;
+}
+.use{
+  color:#fff;
+  }
+.box-1{
+  background: #ffecec;
+}
+.box-2{
+  background: #F7ECFF;
+}
+.box-3{
+  background: #ECF0FF;
+}
+.box-4{
+ background: #D7F9F3;
+}
+.box-5{
+  background:#E2FFD4;
+}
+.box-6{
+  background:#FFF;
+  border:1px solid #DBD5EC;
+  box-shadow: 0px 14px 16px 0px rgba(41,11,128,0.10);
+}
+.box-7{
+  background: #fff3c9;
+}
+.box-8{
+  background: #FFD9C9;
+}
+

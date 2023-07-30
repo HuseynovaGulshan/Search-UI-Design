@@ -1,0 +1,56 @@
+  .icon-32px{
+    width: 32px;
+    height: 32px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-22px{
+    width: 22px;
+    height: 22px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-search{
+  background-image: url(../icon/search.svg);
+}
+
+.icon-map{
+  background-image: url(../icon/map.svg);
+}
+
+.icon-furniture{
+  background-image: url(../icon/furniture.svg);
+}
+
+.icon-property{
+  background-image: url(../icon/property.svg);
+}
+.icon-job{
+  background-image: url(../icon/job.svg);
+}
+.icon-travel{
+  background-image: url(../icon/travel.svg);
+}
+.icon-boat{
+  background-image: url(../icon/boat.svg);
+}
+.icon-mc{
+  background-image: url(../icon/mc.svg);
+}
+.icon-economy{
+  background-image: url(../icon/economy.svg);
+}
+.icon-holiday{
+  background-image: url(../icon/holiday.svg);
+}
+
